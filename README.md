@@ -11,7 +11,7 @@ on line 32.
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://stackoverflow.com/users/user:19125426" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="user:19125426" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/lecrowpus" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="lecrowpus" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@lecrowpus" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="lecrowpus" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discord.gg/vaFFdMwvwS" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/vaFFdMwvwS" height="30" width="40" /></a>
 </p>
 
